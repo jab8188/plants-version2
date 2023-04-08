@@ -1,0 +1,27 @@
+.container {
+background-color: #cff8c4c4;
+}
+
+.btn-group {
+background-color: #00ff1a7a;
+}
+
+.access {
+    background-color: #a5fea779;
+    background-image: url(../images/purp_lotus.svg);
+    color: #012806;
+    font-size: x-large;
+    text-shadow: #93f2a0 1px 3px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;
+    columns: 1;
+    padding-top: 13rem;
+    padding-bottom: 20rem;
+    padding-left: 3rem;
+}
+
+.body h1 {
+    font-size: xx-large;
+}
